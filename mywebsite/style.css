@@ -1,0 +1,37 @@
+/* CSS - Cascading StyleSheet */
+
+.title {
+  font-size: 65px;
+}
+
+h2 {
+  background-color: #607d8b;
+  color: #ffffff;
+}
+
+p {
+  color: darkblue;
+  font-size: 20px;
+  width: 50%;
+}
+
+.brighter {
+  color: aqua;
+}
+
+.dark-background {
+  background-color: darkorchid;
+  padding: 5px;
+}
+
+a {
+  color: red;
+}
+
+img {
+  height: 200px;
+}
+
+#profile {
+  border-radius: 50%;
+}
